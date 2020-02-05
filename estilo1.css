@@ -28,6 +28,10 @@
 .borde-texto{
     background-color: #f0f0f0ff;
     padding:50px;
+    border-radius: 72px 72px 72px 72px;
+    -moz-border-radius: 72px 72px 72px 72px;
+    -webkit-border-radius: 72px 72px 72px 72px;
+    border: 0px solid #000000;
 }
 .color-celda-texto{
     background-color: white;
