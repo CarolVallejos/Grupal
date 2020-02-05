@@ -1,7 +1,11 @@
 .fondo-footer {
     width: 100%;
     height: 130px;
+<<<<<<< HEAD
     background-color: rgb(56, 53, 53);
+=======
+    background-color: orange;
+>>>>>>> eba5014c48ebcbfb2b0f46c9552a4821a5299529
     color: white;
     font-size: 25px;
     text-align: center;
