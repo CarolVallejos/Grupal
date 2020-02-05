@@ -7,3 +7,47 @@
     text-align: center;
     padding-top: 50px;    
 }
+.imagen{
+    width:350px;
+    height:350px;
+}
+.borde-imagen{
+    background-color: #00ffa5ff;
+    padding:50px;
+    border-radius: 72px 72px 72px 72px;
+    -moz-border-radius: 72px 72px 72px 72px;
+    -webkit-border-radius: 72px 72px 72px 72px;
+    border: 0px solid #000000;
+}
+.color-celda{
+    background-color: white;
+    padding:50px;
+    width:30%;
+}
+.dimension-tabla{
+    width:100%;
+    margin:100px;
+    margin:0 auto;
+    text-align: center;
+}
+.texto{
+    font-size: 2em;
+    text-align: justify;
+}
+.borde-texto{
+    background-color: #f0f0f0ff;
+    padding:50px;
+}
+.color-celda-texto{
+    background-color: white;
+    padding:50px;
+    width:70%;
+}
+.borde-imagen2{
+    background-color:#98e3ffff;
+    padding:50px;
+    border-radius: 72px 72px 72px 72px;
+    -moz-border-radius: 72px 72px 72px 72px;
+    -webkit-border-radius: 72px 72px 72px 72px;
+    border: 0px solid #000000;
+}
